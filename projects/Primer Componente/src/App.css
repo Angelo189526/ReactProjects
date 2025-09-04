@@ -42,6 +42,7 @@
   .tw-followCard-button.is-following:hover {
     border: 1px solid red;
     background-color: red;
+    color: #fff;
   }
 
 

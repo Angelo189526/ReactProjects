@@ -6,11 +6,12 @@ export function App () {
     return (
     <section className='App'>
 
-        <TwitterFollowCard isFollowing userName="pheralb">
+        <TwitterFollowCard userName="pheralb">
         Pablo Antonio
         </TwitterFollowCard>
 
-        <TwitterFollowCard isFollowing={false} userName="DaniloJA">
+
+        <TwitterFollowCard userName="DaniloJA">
         Daniel Motaño
         </TwitterFollowCard>
         
