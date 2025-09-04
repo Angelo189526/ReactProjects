@@ -37,23 +37,18 @@
     transition: .3s ease background-color;
   }
 
-  .tw-followCard-button.is-followig {
+  
+
+  .tw-followCard-button.is-following:hover {
     border: 1px solid red;
-    
+    background-color: red;
   }
+
 
   .tw-followCard-button:hover {
     background-color: #09f;
   }
 
-  .tw-followCard-button:hover{
-
-    background-color: rgb(63, 63, 206);
  
-  
-  }
 
-  .tw-followCard-button.is-followig:hover {
-    background-color: red;
-  }
 
